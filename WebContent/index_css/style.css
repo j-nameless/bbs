@@ -1,0 +1,261 @@
+body {
+	background: url("bgimg.jpg") no-repeat 50% 0px rgb(255, 255, 255);
+}
+#nv {
+	background-image: url("nv.png"); background-color: rgb(66, 146, 150);
+}
+#nv li {
+	background-image: url("nv_a.png") !important;
+}
+#nv li a:hover {
+	background-image: url("nv_a.png") !important;
+}
+#nv li.hover a {
+	background-image: url("nv_a.png") !important;
+}
+#nv li.hover a:hover {
+	background-image: url("nv_a.png") !important;
+}
+#nv li.a {
+	background-color: rgb(0, 93, 93);
+}
+.bm_h {
+	border-bottom-color: rgb(205, 205, 205);
+}
+.tl th {
+	border-bottom-color: rgb(205, 205, 205);
+}
+.tl td {
+	border-bottom-color: rgb(205, 205, 205);
+}
+.fl .bm_h {
+	background: url("titlebg.png") repeat-x 0px 0px rgb(235, 245, 246); border-color: rgb(197, 230, 223);
+}
+.bmn {
+	background-color: rgb(235, 245, 246);
+}
+.bm_h {
+	background-color: rgb(235, 245, 246);
+}
+td.pls {
+	background-color: rgb(235, 245, 246);
+}
+.ad td.plc {
+	background-color: rgb(235, 245, 246);
+}
+div.exfm {
+	background-color: rgb(235, 245, 246);
+}
+.tb a {
+	background-color: rgb(235, 245, 246);
+}
+.tb_h {
+	background-color: rgb(235, 245, 246);
+}
+.ttp li.a a {
+	background-color: rgb(235, 245, 246);
+}
+div.uo a {
+	background-color: rgb(235, 245, 246);
+}
+input#addsubmit_btn {
+	background-color: rgb(235, 245, 246);
+}
+#gh .bm .bm_h {
+	background-color: rgb(235, 245, 246);
+}
+.appnew {
+	background-color: rgb(235, 245, 246);
+}
+.apphot {
+	background-color: rgb(235, 245, 246);
+}
+.ct2_a {
+	background-image: url("vlineb.png");
+}
+.ct3_a {
+	background-image: url("vlineb.png");
+}
+.tbn li.a {
+	background: rgb(255, 255, 255);
+}
+.pg_portalcp#nv_portal .ct2_a_r {
+	background-image: none;
+}
+.pg_post#nv_forum .ct2_a_r {
+	background-image: none;
+}
+.bmn {
+	border-color: rgb(197, 230, 223);
+}
+.pg a {
+	border-color: rgb(197, 230, 223);
+}
+.pgb.a {
+	border-color: rgb(197, 230, 223);
+}
+.pg strong {
+	border-color: rgb(197, 230, 223);
+}
+.card {
+	border-color: rgb(197, 230, 223);
+}
+.card .o {
+	border-color: rgb(197, 230, 223);
+}
+div.exfm {
+	border-color: rgb(197, 230, 223);
+}
+.pg strong {
+	background-color: rgb(197, 230, 223);
+}
+.pn {
+	background-image: url("pn.png");
+}
+.tb .o {
+	background-image: url("pn.png");
+}
+.tb .o a {
+	background-image: url("pn.png");
+}
+.pnc {
+	border-color: rgb(0, 102, 102);
+}
+a.pnc {
+	border-color: rgb(0, 102, 102);
+}
+.tb .o {
+	border-color: rgb(0, 102, 102);
+}
+.ad td.pls {
+	background-color: rgb(197, 230, 223);
+}
+#qmenu {
+	color: rgb(66, 146, 150);
+}
+.fl .bm_h h2 a {
+	color: rgb(66, 146, 150);
+}
+.xi1 {
+	color: rgb(66, 146, 150);
+}
+#um .new {
+	color: rgb(66, 146, 150);
+}
+.topnav .new {
+	color: rgb(66, 146, 150);
+}
+.sch .new {
+	color: rgb(66, 146, 150);
+}
+.el .ec .hot em {
+	color: rgb(66, 146, 150);
+}
+.pll .s a.joins {
+	color: rgb(66, 146, 150);
+}
+.pll .s a.go {
+	color: rgb(255, 255, 255);
+}
+.xi2 {
+	color: rgb(0, 0, 0);
+}
+.xi2 a {
+	color: rgb(0, 0, 0);
+}
+.pgs #newspecial {
+	background: url("pn_post.png") no-repeat 0px 0px; float: left;
+}
+.pgs #newspecialtmp {
+	background: url("pn_post.png") no-repeat 0px 0px; float: left;
+}
+#post_reply {
+	background: url("pn_reply.png") no-repeat 0px 0px; float: left;
+}
+#post_replytmp {
+	background: url("pn_reply.png") no-repeat 0px 0px; float: left;
+}
+#newspecial img {
+	opacity: 0;
+}
+#newspecialtmp img {
+	opacity: 0;
+}
+#post_reply img {
+	opacity: 0;
+}
+#post_replytmp img {
+	opacity: 0;
+}
+.moodfm_btn {
+	background-image: url("mood_input_btn.png") !important;
+}
+#create_group_btn {
+	background: url("create_group.png") no-repeat 0px 0px; display: block;
+}
+#create_group_btn img {
+	opacity: 0;
+}
+.el .ec .hot {
+	background-image: url("hotspot.gif");
+}
+.clct_list .xld .m {
+	background-image: url("hotspot.gif");
+}
+.pll .s {
+	background-image: url("polljoins.gif");
+}
+#uhd {
+	background-color: rgb(244, 249, 249);
+}
+#flw_header .bar {
+	background-color: rgb(244, 249, 249);
+}
+.flw_replybox {
+	background-color: rgb(244, 249, 249);
+}
+.pg_follow #fastpostsubmit {
+	background-image: url("flw_post.png");
+}
+.flw_replybox .pnc {
+	background-image: url("pn_reply.png");
+}
+.flw_replybox td table .pnc {
+	background-image: url("pn_rt.png");
+}
+#flw_post_extra .sec {
+	background-color: rgb(244, 249, 249);
+}
+#fjump_menu li.a a {
+	background-color: rgb(235, 245, 246);
+}
+.bdl {
+	border-color: rgb(194, 213, 227); background-color: rgb(235, 245, 246);
+}
+.bdl dt {
+	border-color: rgb(194, 213, 227); background-color: rgb(235, 245, 246);
+}
+.bdl dd.bdl_a a {
+	border-color: rgb(194, 213, 227); background-color: rgb(235, 245, 246);
+}
+.bdl dt {
+	background-image: url("titlebg_sd.png");
+}
+.bdl dd.bdl_a a {
+	color: rgb(66, 146, 150);
+}
+.p_pop a {
+	border-bottom-color: rgb(235, 245, 246);
+}
+.p_pop a:hover {
+	color: rgb(66, 146, 150); background-color: rgb(235, 245, 246);
+}
+.p_pop a.a {
+	color: rgb(66, 146, 150); background-color: rgb(235, 245, 246);
+}
+#sctype_menu .sca {
+	color: rgb(66, 146, 150); background-color: rgb(235, 245, 246);
+}
+.blk a:hover {
+	background-color: transparent;
+}
